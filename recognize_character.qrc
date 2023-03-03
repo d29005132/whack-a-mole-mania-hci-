@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="decorate">
+    <file>songshu.png</file>
+    <file>zzf.jpg</file>
+  </qresource>
+</RCC>
